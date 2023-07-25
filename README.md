@@ -1,2 +1,2 @@
- # esqueleto car crash
+ # skeleton for Java exercise with Simple Graphics library with collisions
  
